@@ -1,3 +1,3 @@
 # algebra2026-test
 
-Ovo je promjena datoteke. 
+## Ovo je promjena datoteke iz mojeg radnog računala.    
